@@ -1,0 +1,181 @@
+---
+title: "Marketing"
+subtitle: "Outside of Marsh"
+author: "Rajesh Sahasrabuddhe"
+date: "2016/12/12"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    yolo: FALSE
+    seal: FALSE
+    css: ["default", "marketing.css"]
+    self_contained: FALSE
+    nature:
+      highlightStyle: github
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+      ratio: '16:9'
+---
+class: center, middle, title-slide
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+<h1 class="title">Marketing<br>
+Outside of Marsh</h1>
+<br>
+<h3 class="title">Rajesh Sahasrabuddhe</h3>
+<h3 class="title">December 6, 2017</h3>
+<br>
+<img src = 'img/logo.png' height="25px">
+
+---
+layout: true
+
+
+<footer>
+<img src = 'img/logo.png' height="15px" style = "position: absolute; right: 0px; bottom: 30px; left: 30px; text-align: center;">
+</footer>
+
+---
+
+# Acknowledgement
+
+
+<img src = 'img/Marketing_Coursera_Course_Thumb.jpg' height = "100px" style="position: center;">
+<a class="course" style="float" href="https://www.coursera.org/learn/wharton-marketing/home/welcome">Introduction to Marketing<br>
+by University of Pennsylvania</a>
+
+---
+
+# Fundamentals
+
+<ul>
+  <li>What is Marketing</li>
+  <ul>
+    <li>The study of markets</li>
+    <li>The interaction between buyer and seller</li>
+  </ul>
+  <li>Marketing differs based on the type of market</li>
+  <ul>
+    <li>Seller's Market</li>
+    <li>Buyer's Market</li>
+  </ul>
+</ul>
+
+---
+
+# Fundamentals
+
+<ul>
+  <li>Seller's Market</li>
+  <ul>
+    <li>The seller has the product</li>
+    <li>The buyer must come to the seller to get the product</li>
+    <li class = "red">Product Focused Marketing</li>
+    <li>Source of profit: lower cost, market to everyone; sell to everyone</li>
+  </ul>
+</ul>
+
+Is "traditional" reserving work a seller's market?
+--
+
+(SEC filer v non-SEC Filer?)
+---
+
+# Fundamentals
+
+<ul>
+<li>Buyer's Market</li>
+  <ul>
+    <li>Identify customer needs</li>
+    <li>Deliver product that meets the needs of the customer</li>
+    <li class = "red">Customer Focused Marketing</li>
+    <li>Every customer has different needs</li>
+    <li>Marketing needs to be segmented</li>
+    <li>Sources of profit: cross-selling, loyalty</li> 
+  </ul>
+</ul>  
+
+---
+# Market Driven Principles
+
+<ul>
+  <li>Know your market</li>
+  <li>How do buyers select sellers</li>
+  <ul>
+    <li>Operational (price, delivery, service reliability)</li>
+    <li>Features and Design</li>
+    <li>Meeting Customer Needs</li>
+  </ul>
+  <li>Commit to being first in the markets that you serve</li>
+    <ul>
+    <li>Be the best in one area</li>
+    <li>Offer fair value in the other areas</li>
+    </ul>
+  <li>Guarantee customer satisfaction</li>
+</ul>
+
+---
+# The Four P's of Marketing
+
+<ul>
+  <li>Product - What the seller puts into the exchange</li>
+  <li>Place - The way that the seller delivers product to the customer</li>
+  <li>Promotion - Communication of Benefit</li>
+  <li>Price - What the buyer puts into the exchange</li>
+</ul>
+
+---
+# Execution of Marketing
+
+### Marketing Strategy | Product
+
+<ul>
+  <li>Define a market segment</li>
+  <li>Determine how we will compete in that market</li>
+  <li>Execute</li>
+</ul>
+
+---
+# Defining our Markets
+
+
+<ul>
+  <li>Self-insurance > <span style="
+    font-style: italic">geography</span> > industry > company</li>
+  <li>Insurance > <span style="
+    font-style: italic">geography</span> > size > 
+  <li>Government > Federal / State / Local</li>
+</ul>
+
+We generally want to compete in markets that don't value operational efficiency first. 
+
+
+---
+# Compete
+
+<ul>
+  <li>Seller's Market Strategy -> Operational Excellence</li>
+  <li>Buyer's Market Strategy -> Select Approach</li>
+</ul>
+
+---
+# Execute
+
+<ul>
+  <li>Allocate Resources</li>
+  <li>Set Goals</li>
+  <li>Measure Progress</li>
+</ul>
+
+---
+# Final Thoughts
+
+<ul>
+  <li>What does Marsh involvement introduce into this process?</li>
+  <li>The effect of competition</li>
+</ul>
+

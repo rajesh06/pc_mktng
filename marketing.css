@@ -1,0 +1,78 @@
+/* Headings */
+h1.title {
+    text-align: center;
+    font-family: "Yanone Kaffeesatz", Tahoma, Geneva, sans-serif;
+}
+  
+h2.title {
+    text-align: center;
+    font-family: "Yanone Kaffeesatz", Tahoma, Geneva, sans-serif;
+}
+  
+h3.title {
+    text-align: center;
+    font-family: "Yanone Kaffeesatz", Tahoma, Geneva, sans-serif;
+}
+
+
+a.course {
+    vertical-align: top;
+    font-size: 30px;
+    color: #002C77;
+    margin: 20px;
+    width: 500px;
+    float: left;    
+}
+
+
+/* Class Selectors */
+.remark-slide-number {
+    color: #002C77;
+    margin: 0px 0px 0px 0px;
+    padding: 20px;
+    font-family: "Droid Serif","Palatino Linotype","Book Antiqua",Palatino,"Microsoft YaHei","Songti SC",serif;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+}
+
+.remark-slide-content {
+    background-color: #ffffff;
+}
+
+.title-slide {
+    background-color: #BFBFBF;
+  }
+  
+
+ul{
+    margin-bottom: 10px;
+    margin-top: 7px;
+}
+
+ul > li {
+    margin-bottom: 7px;
+    font-size: 24px;
+}
+
+ul > ul > li {
+    list-style-position: inside;
+    list-style-type: none;
+    margin-bottom: 7px;
+    content: "-";
+    text-indent: -5px;
+}
+  
+ul > ul li:before {
+    content: "–"; 
+    position: absolute;
+    /*change margin to move dash around*/
+    margin-left: -1em;
+  }
